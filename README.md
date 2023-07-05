@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Julia 🐱‍👤
 
 - 🔭 Estou trabalhando com PowerBi, Chatbot, automatização de documentos e Django
-- 🌱 Estudo desenvolvimeto fullsatck em Python e estou no 7 semestre de Ciência da Computação
+- 🌱 Estudo desenvolvimeto fullstack em Python e estou no 7 semestre de Ciência da Computação
 
 
 <div align="center">
